@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: nicolasbelanger.github.io
+Token: 012de823c1a38086456f9a4ee80136ef2206a6798e0ccf49e299d39e68982c14
